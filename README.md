@@ -17,6 +17,7 @@ Sito / Website / Сайт: https://cvradar.bais.info
 | macOS 12+ Apple Silicon | [CvRadar-mac-arm64.dmg](https://github.com/bdbais/cvradar-releases/releases/latest/download/CvRadar-mac-arm64.dmg) |
 | Linux AppImage | [CvRadar-linux-x86_64.AppImage](https://github.com/bdbais/cvradar-releases/releases/latest/download/CvRadar-linux-x86_64.AppImage) |
 | Linux .deb | [CvRadar-linux-amd64.deb](https://github.com/bdbais/cvradar-releases/releases/latest/download/CvRadar-linux-amd64.deb) |
+| Android 7+ (APK) | [CvRadar-Android.apk](https://github.com/bdbais/cvradar-releases/releases/latest/download/CvRadar-Android.apk) |
 
 L'app si aggiorna da sola. / The app updates itself. / Программа обновляется сама.
 
